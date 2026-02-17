@@ -1,0 +1,5 @@
+{
+  "name": "MercadoGen AI",
+  "description": "Generador de imágenes y prompts para publicaciones de Mercado Libre potenciado por Gemini.",
+  "requestFramePermissions": []
+}
